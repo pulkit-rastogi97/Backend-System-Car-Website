@@ -1,0 +1,62 @@
+[
+  {
+    "_class":"com.udacity.pricing.entity.Price",
+    "vehicleId":1,
+    "currency":"INR",
+    "price": 12981.45
+  },
+  {
+    "_class":"com.udacity.pricing.entity.Price",
+    "vehicleId":2,
+    "currency":"INR",
+    "price": 29991.71
+  },
+  {
+    "_class":"com.udacity.pricing.entity.Price",
+    "vehicleId":3,
+    "currency":"INR",
+    "price": 56400.98
+  },
+  {
+    "_class":"com.udacity.pricing.entity.Price",
+    "vehicleId":4,
+    "currency":"INR",
+    "price": 54900.67
+  },
+  {
+    "_class":"com.udacity.pricing.entity.Price",
+    "vehicleId":5,
+    "currency":"INR",
+    "price": 67100.45
+  },
+  {
+    "_class":"com.udacity.pricing.entity.Price",
+    "vehicleId":6,
+    "currency":"INR",
+    "price": 91761.73
+  },
+  {
+    "_class":"com.udacity.pricing.entity.Price",
+    "vehicleId":7,
+    "currency":"INR",
+    "price": 15673.89
+  },
+  {
+    "_class":"com.udacity.pricing.entity.Price",
+    "vehicleId":8,
+    "currency":"INR",
+    "price": 90123.86
+  },
+  {
+    "_class":"com.udacity.pricing.entity.Price",
+    "vehicleId":9,
+    "currency":"INR",
+    "price": 71081.18
+  },
+  {
+    "_class":"com.udacity.pricing.entity.Price",
+    "vehicleId":10,
+    "currency":"INR",
+    "price": 12000.90
+  }
+]
